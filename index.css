@@ -5,6 +5,13 @@
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
 }
+.dp{
+    width: 100%;
+}
+.child{
+    width: 20%;
+    margin: 0 auto;
+}
 Body{
     background-color: black;
 }
@@ -12,7 +19,7 @@ Body{
     border-radius: 50%;
     height: 40vh;
     border: 5px solid rgba(172, 255, 47, 0.542);
-    margin: 4rem 32rem;
+    /* margin: 4rem 32rem; */
 }
 .name{
     /* color: rgba(172, 255, 47, 0.428); */
