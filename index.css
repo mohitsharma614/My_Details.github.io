@@ -10,8 +10,9 @@
     /* margin: auto; */
 }
 .child{
-    width: 15rem;
-    height: 15rem;
+    width: 40%;
+
+    height: 40%;
     margin: 0 auto;
 }
 Body{
@@ -19,7 +20,9 @@ Body{
 }
 #dp{
     border-radius: 50%;
-    height: 40vh;
+    /* height: ; */
+    width: 30%;
+    /* margin: auto !important; */
     border: 5px solid rgba(172, 255, 47, 0.542);
     /* margin: 4rem 32rem; */
 }
