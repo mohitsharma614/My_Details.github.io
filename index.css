@@ -1,0 +1,50 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Roboto:wght@300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Roboto:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+Body{
+    background-color: black;
+}
+#dp{
+    border-radius: 50%;
+    height: 40vh;
+    border: 5px solid rgba(172, 255, 47, 0.542);
+    margin: 4rem 32rem;
+}
+.name{
+    /* color: rgba(172, 255, 47, 0.428); */
+    color: aquamarine;
+    /* margin: 0 20rem; */
+    text-align: center;
+}
+.info{
+    margin: 3rem 0;
+    text-align: center;
+    color: pink;
+}
+#heading{
+    color: cornflowerblue;
+    margin-left: 3rem;
+    text-align: center;
+}
+.contact{
+    color: bisque;
+    text-align: center;
+    margin-top: 3rem;
+}
+#btn{
+   color: black;
+   background-color: orange;
+   padding: 1rem 1rem;   
+   font-weight: bold;
+   font-size: 0.8rem;
+   text-align: center;
+   margin-left: 60rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
