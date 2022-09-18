@@ -7,9 +7,11 @@
 }
 .dp{
     width: 100%;
+    /* margin: auto; */
 }
 .child{
-    width: 20%;
+    width: 15rem;
+    height: 15rem;
     margin: 0 auto;
 }
 Body{
